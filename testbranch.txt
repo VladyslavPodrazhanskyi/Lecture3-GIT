@@ -1,2 +1,13 @@
-I created new branch
+
+ created new branch
+
+Change from master branch
+
 Some changes from feature branch.
+
+
+New changes from master branch
+
+remote changes
+
+
