@@ -1,5 +1,3 @@
-I created new branch
-
-Change in featur branch!
+ created new branch
 
 Change from master branch
