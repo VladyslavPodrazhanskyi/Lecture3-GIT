@@ -1,3 +1,7 @@
+
  created new branch
 
 Change from master branch
+
+Some changes from feature branch.
+
