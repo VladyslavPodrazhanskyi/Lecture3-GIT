@@ -5,3 +5,4 @@ Change from master branch
 
 Some changes from feature branch.
 
+New changes from master branch
