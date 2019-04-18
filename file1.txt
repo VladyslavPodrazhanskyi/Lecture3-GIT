@@ -5,4 +5,4 @@ I changed this file from local rep in HDD 300.
 
 I try to make connection throuw SSH key
 
-SSH doesn't work
+SSH doesn't work/ I continue to fix problem with ssh
